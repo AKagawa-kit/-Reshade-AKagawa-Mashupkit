@@ -5,7 +5,11 @@
 This is the filter preset I made for FFXIV. It can be used for commercial, private or modified purposes. 
 ⚠Please do not resell or modify it for sale! Thank you for your like.
 
-🍏- - - - - - - - - 
+🍏- - - - - - - - -
+
+以及这个文件是我用于整理我的场景、滤镜、拍照相关的表格贴出来供大家参考（？）
+ 
+https://docs.qq.com/sheet/DY1VZVG1LckR3dUtT?u=13a6e2115ad04a4fa939ab207fb26840&tab=000001
 
 如果喜欢我的预设，欢迎发布在地区小红书/抖音/B站等国内平台，并带上“#AKagawa”的标签，期待您的使用反馈❤ww!
 例图里是我的小猫=w=
