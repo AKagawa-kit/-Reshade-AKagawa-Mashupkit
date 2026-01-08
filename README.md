@@ -1,2 +1,11 @@
-# -Reshade-AKagawa-Mashupkit
-这是我为FFXIV制作的滤镜预设，商用/私用/改动均可，请勿倒卖或改动后售卖！感谢喜欢
+# -Reshade-AKagawa-Mashupkit 滤镜预设组合包 
+🍎— — — — — — — — — — — — — — — —
+# 这是我为FFXIV制作的滤镜预设，商用/私用/改动均可
+# ⚠请勿倒卖或改动后售卖！感谢使用于喜欢！
+This is the filter preset I made for FFXIV. It can be used for commercial, private or modified purposes. 
+⚠Please do not resell or modify it for sale! Thank you for your like.
+
+🍏- - - - - - - - - 
+
+如果喜欢我的预设，欢迎发布在地区小红书/抖音/B站等国内平台，并带上“#AKagawa”的标签，期待您的使用反馈❤ww!
+例图里是我的小猫=w=
